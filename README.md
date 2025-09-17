@@ -1,4 +1,4 @@
-# Interactive Sales Dashboard
+# Interactive Sales Dashboard 
 
 📊 An interactive sales dashboard designed to provide insights into **revenue, transactions, and customer demographics**.  
 This project highlights how data can be visualized to support decision-making in sales and marketing.
