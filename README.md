@@ -30,7 +30,7 @@ This project highlights how data can be visualized to support decision-making in
 ---
 
 ## 🖼️ Preview  
-![Dashboard Preview](Sales Dashboard.png)
+![Dashboard Preview](SalesDashboard.png)
 
 ---
 Personal Note - Prefer opening in Google sheets else the charts arent visible perfectly
